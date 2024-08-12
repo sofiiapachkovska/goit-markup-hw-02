@@ -50,7 +50,6 @@ address {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding: 24px 0;
 }
 
 .navigation .studio-link:hover {
@@ -154,10 +153,6 @@ address {
     background-color: #404BBF;
 }
 
-.section-second {
-    padding: 120px 0
-}
-
 .title-second {
     font-size: 20px;
     font-weight: 500;
@@ -185,7 +180,7 @@ address {
 }
 
 .section-three {
-    background-color:#F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .one-member {
