@@ -50,6 +50,7 @@ address {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 .navigation .studio-link:hover {
@@ -151,6 +152,10 @@ address {
 
 .button:focus {
     background-color: #404BBF;
+}
+
+.section-second {
+    padding: 120px 0
 }
 
 .title-second {
